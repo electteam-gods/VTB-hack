@@ -1,7 +1,8 @@
-Команда Electteam
-Трек AI HR
+**Команда Electteam**
 
-Решение:
+**Трек AI HR**
+
+**Решение:**
 
 <img width="772" height="658" alt="image" src="https://github.com/user-attachments/assets/e7ec7653-ba61-402d-8474-8f609563c76c" />
 
@@ -13,7 +14,7 @@
 Для обработки речи используется конструктор моделей: wav2vec обученные для выделения эмоций на отрезках (определяет 5 эмоций, однако нужно 2 модели, обученные под русский и под английский языки отдельно, это позволит сохранить качество, в отличии от одной мультиязычной модели, Automatic Speech Recognition определяет паузы в речи, Whisper large v3 для перевода Audio2Text.
 
 
-База данных:
+**База данных:**
 
 <img width="1174" height="515" alt="image" src="https://github.com/user-attachments/assets/938addb4-3da0-4323-902c-f34841f7993d" />
 
